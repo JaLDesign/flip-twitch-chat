@@ -6,7 +6,7 @@ I built this because most of the workarounds I have seen online are either out d
 This simple just flips the chat window without needing to flip the message bar or top bits.
 
 ---
-Example of in use
-<img src="/art/example.gif?raw=true" width="200px">
+[Example of in use](https://i.imgur.com/lwj3EWc.gif)
+
 ---
 This is in no way shape or form affiliated with Twitch and its partners. 
