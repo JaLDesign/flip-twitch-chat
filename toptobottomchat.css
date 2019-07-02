@@ -8,12 +8,6 @@ div.tw-flex-grow-1.tw-full-height.tw-pd-b-1 {
     flex-direction: column-reverse;
 }
 
-
-/* Hide Stream Chat/Rooms Header*/
-div.rooms-header.tw-align-items-center.tw-border-b.tw-c-background-alt.tw-flex.tw-flex-shrink-0.tw-full-width.tw-justify-content-between.tw-pd-l-2.tw-pd-r-1 {
-    display: none;
-}
-
 /* Remove More Messages Below */a
 div.chat-list__list-footer.tw-absolute.tw-align-items-center.tw-border-radius-medium.tw-bottom-0.tw-flex.tw-full-width.tw-justify-content-center.tw-pd-05 div {
     display: none;
