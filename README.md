@@ -11,7 +11,8 @@ This simple just flips the chat window without needing to flip the message bar o
 
 ---
 **How to Install**
-Personally I use the following;
+
+Personally I use the following plugin/addon's;
 
 - On Chrome I use something called stylebot (click edit css, copy the code, save and boom) [https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha "https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha")
 
