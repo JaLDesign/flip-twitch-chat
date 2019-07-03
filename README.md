@@ -8,5 +8,18 @@ This simple just flips the chat window without needing to flip the message bar o
 ---
 [Example of in use](https://i.imgur.com/lwj3EWc.gif)
 
+
+---
+**How to Install**
+Personally I use the following;
+
+- On Chrome I use something called stylebot (click edit css, copy the code, save and boom) [https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha "https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha")
+
+- On Firefox I use Custom Style Script [https://addons.mozilla.org/en-GB/firefox/addon/custom-style-script/](https://addons.mozilla.org/en-GB/firefox/addon/custom-style-script/ "https://addons.mozilla.org/en-GB/firefox/addon/custom-style-script/")
+
+*This will work on any chromium based browser too. Brave, Vivaldi, Opera etc*
+
+*Note:  Outside of Firefox and Chrome I can not guarantee that this will work*
+
 ---
 This is in no way shape or form affiliated with Twitch and its partners. 
