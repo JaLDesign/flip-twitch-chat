@@ -18,6 +18,8 @@ Personally I use the following plugin/addon's;
 
 - On Firefox I use Custom Style Script [https://addons.mozilla.org/en-GB/firefox/addon/custom-style-script/](https://addons.mozilla.org/en-GB/firefox/addon/custom-style-script/ "https://addons.mozilla.org/en-GB/firefox/addon/custom-style-script/")
 
+- On OBS you can simply add the code into the Custom CSS in the Browser Source
+
 *This will work on any chromium based browser too. Brave, Vivaldi, Opera etc*
 
 *Note:  Outside of Firefox and Chrome I can not guarantee that this will work*
